@@ -1,0 +1,18 @@
+body {
+       background-image: url("http://www.themesrefinery.net/wp-content/uploads/2014/06/website-background-images-for-287671.jpg");
+}
+
+
+td, tr, table {
+                background-color: blue;
+                color: yellow;
+} 
+
+#a {
+    background-color: green;
+    color: yellow;
+}
+
+.hallo2 {
+         color: red;
+}
